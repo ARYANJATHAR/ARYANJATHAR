@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/aryanjathar07/]">LinkedIn</a> •
+  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/aryanjathar07/)">LinkedIn</a> •
   <a href="mailto:aryanjathar0723@gmail.com">Email</a>
 </p>
 

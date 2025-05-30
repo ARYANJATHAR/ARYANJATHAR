@@ -1,6 +1,6 @@
 <h1 align="center">👋 Aryan Jathar</h1>
 <p align="center">
-  👨‍💻 Software Engineer | 🚀 AI/ML |🎓 IT Eng Student 
+   👨‍💻 Software Engineer | 🚀 AI/ML |🎓 IT Eng Student 
 </p>
 
 <p align="center">
@@ -33,7 +33,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Add/remove badges as you wish -->
 
 ---
 
@@ -49,6 +48,14 @@
 
 - **AI Quiz App** — HTML, CSS, JavaScript  
   Built an AI-powered quiz platform with adaptive difficulty, instant feedback, and progress tracking.
+
+---
+
+### 📈 Commit Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARYANJATHAR&theme=github-dark&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 

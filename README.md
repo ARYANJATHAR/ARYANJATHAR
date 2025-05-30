@@ -1,6 +1,6 @@
 <h1 align="center">👋 Aryan Jathar</h1>
 <p align="center">
-  👨‍💻 App/Web Dev | 🚀 AI/ML | 🎓 IT Eng Student
+  👨‍💻 Software Engineer | 🚀 AI/ML |🎓 IT Eng Student 
 </p>
 
 <p align="center">

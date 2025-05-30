@@ -1,46 +1,51 @@
-# 👋 Hi, I'm Aryan Jathar
+<h1 align="center">👋 Aryan Jathar</h1>
+<p align="center">
+  🚀 AI/ML | 👨‍💻 App Dev | 🎓 IT Eng Student
+</p>
 
-🎓 &nbsp;Third-year IT Engineering student at **Trinity College of Engineering**  
-🚀 &nbsp;Passionate about **AI/ML**, **Generative AI**, and **Data Science**  
-🛠️ &nbsp;Currently building AI-based projects and apps with **Python**, **Kivy**, and **React Native**  
-📈 &nbsp;Sharpening my problem-solving skills by exploring **DSA in Python**
-
----
-
-## 🔧 Technologies & Tools
-
-- **Languages:** Python, JavaScript (React Native), SQL  
-- **AI/ML:** OpenCV, MediaPipe, scikit-learn, beginner with TensorFlow  
-- **Data Visualization:** Power BI, Tableau, Excel  
-- **Web Development:** HTML, CSS, JavaScript (beginner)  
-- **App Development:** Kivy (Python), React Native  
-- **Tools:** Git, VS Code, Buildozer, WSL
+<p align="center">
+  <a href="https://www.linkedin.com/">LinkedIn</a> •
+  <a href="https://www.instagram.com/">AI for Everyone</a> •
+  <a href="mailto:your.email@example.com">Email</a>
+</p>
 
 ---
 
-## 📌 Current Projects
+### ⚡ About Me
 
-- 🎮 &nbsp;**Gesture-Controlled Android App:** Use eyebrow/hand movements to scroll Instagram Reels & YouTube Shorts  
-- 🎧 &nbsp;**DJ-Style Music Remixing App:** Real-time gesture detection for audio effects  
-- 🎥 &nbsp;Launching **"AI for Everyone"** – a social channel to make AI tools accessible for all
-
----
-
-## 🏆 Certifications
-
-- Infosys Springboard: *Intro to AI*, *AI Internship*  
-- Cisco Networking Academy: *Intro to Data Science*  
-- Great Learning: *Power BI*, *Tableau*, *Excel for Beginners*  
-- HackerRank: *Python Basic Skills*
+- Student @ Trinity College of Engineering
+- Building cool stuff with **Python**, **Kivy**, **React Native**
+- Exploring **AI/ML** and **Generative AI**
+- On a mission to make tech fun & accessible
 
 ---
 
-## 📫 Let's Connect!
+### 🛠️ Toolbelt
 
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(update your link!)*
-- 🧠 [AI for Everyone (YouTube/Instagram)](https://www.instagram.com/) *(update your link!)*
-- 📬 Email: `your.email@example.com` *(update your email!)*
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
+![Kivy](https://img.shields.io/badge/-Kivy-3776AB?style=flat)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+<!-- Add or remove badges as you like! -->
 
 ---
 
-*Built with ❤️ using Markdown*
+### 🚧 Projects
+
+- Gesture-controlled Android app (scroll Reels/Shorts by moving your eyebrows!)
+- DJ-style music remixing with gestures
+- “AI for Everyone” – making AI simple on YouTube/Instagram
+
+---
+
+<!--
+🏆 Certifications (optional minimalist section)
+- Infosys Springboard (AI)
+- Cisco Networking Academy (Data Science)
+- Great Learning (Power BI, Tableau)
+- HackerRank (Python Basics)
+-->
+
+<p align="center"><sub>Built with ❤️ using Markdown</sub></p>

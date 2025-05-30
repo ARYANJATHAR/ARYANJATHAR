@@ -1,12 +1,11 @@
 <h1 align="center">👋 Aryan Jathar</h1>
 <p align="center">
-  🚀 AI/ML | 👨‍💻 App Dev | 🎓 IT Eng Student
+  👨‍💻 App/Web Dev  | 🚀 AI/ML| 🎓 IT Eng Student
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/">LinkedIn</a> •
-  <a href="https://www.instagram.com/">AI for Everyone</a> •
-  <a href="mailto:your.email@example.com">Email</a>
+  <a href="mailto:your.aryanjathar0723@gmail.com.com">Email</a>
 </p>
 
 ---
@@ -14,38 +13,41 @@
 ### ⚡ About Me
 
 - Student @ Trinity College of Engineering
-- Building cool stuff with **Python**, **Kivy**, **React Native**
-- Exploring **AI/ML** and **Generative AI**
-- On a mission to make tech fun & accessible
+- Building cool stuff 
+- Interested in learning **AI/ML** and **Generative AI**
+- On a mission to make tech fun & accessible 
 
 ---
 
 ### 🛠️ Toolbelt
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white)
-![Kivy](https://img.shields.io/badge/-Kivy-3776AB?style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-<!-- Add or remove badges as you like! -->
+<!-- Add/remove badges as you wish -->
 
 ---
 
-### 🚧 Projects
+### 🚀 Featured Projects
 
-- Gesture-controlled Android app (scroll Reels/Shorts by moving your eyebrows!)
-- DJ-style music remixing with gestures
-- “AI for Everyone” – making AI simple on YouTube/Instagram
+- **Beyond QWERTY: Form Filling Vernacular Voyage** — Infosys Springboard(Internship)
+  Developed a voice-enabled bank form-filling solution, reducing processing time by 35%.  
+  Integrated data validation, PDF generation, and email functionality, improving completion rates by 40%.  
+  Ensured accessibility across web and Android platforms.
+
+- **Speech to Move** — JavaScript, Browser Extension API  
+  Engineered a browser extension enabling voice-controlled webpage scrolling for enhanced accessibility.
+
+- **AI Quiz App** — Html.Css,Js 
+  Built an AI-powered quiz platform with adaptive difficulty, instant feedback, and progress tracking.
 
 ---
-
-<!--
-🏆 Certifications (optional minimalist section)
-- Infosys Springboard (AI)
-- Cisco Networking Academy (Data Science)
-- Great Learning (Power BI, Tableau)
-- HackerRank (Python Basics)
--->
-
-<p align="center"><sub>Built with ❤️ using Markdown</sub></p>

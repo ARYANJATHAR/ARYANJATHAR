@@ -1,28 +1,28 @@
 # 👋 Hi, I'm Aryan Jathar
 
-🎓 I'm a 3rd-year IT engineering student at Trinity College of Engineering.  
-🚀 Passionate about **AI/ML**, **Generative AI**, and **Data Science**.  
-🛠️ Currently working on AI-based projects and developing apps using **Python**, **Kivy**, and **React Native**.  
-📈 Exploring **DSA in Python** to sharpen my problem-solving skills.
+🎓 &nbsp;Third-year IT Engineering student at **Trinity College of Engineering**  
+🚀 &nbsp;Passionate about **AI/ML**, **Generative AI**, and **Data Science**  
+🛠️ &nbsp;Currently building AI-based projects and apps with **Python**, **Kivy**, and **React Native**  
+📈 &nbsp;Sharpening my problem-solving skills by exploring **DSA in Python**
 
 ---
 
 ## 🔧 Technologies & Tools
 
-- 💻 Languages: Python, JavaScript (React Native), SQL  
-- 🧠 AI/ML: OpenCV, MediaPipe, scikit-learn, TensorFlow (beginner)  
-- 📊 Data: Power BI, Tableau, Excel  
-- 🌐 Web Dev: HTML, CSS, JS (beginner)  
-- 📱 App Dev: Kivy (Python), React Native  
-- 🛠 Tools: Git, VS Code, Buildozer, WSL  
+- **Languages:** Python, JavaScript (React Native), SQL  
+- **AI/ML:** OpenCV, MediaPipe, scikit-learn, beginner with TensorFlow  
+- **Data Visualization:** Power BI, Tableau, Excel  
+- **Web Development:** HTML, CSS, JavaScript (beginner)  
+- **App Development:** Kivy (Python), React Native  
+- **Tools:** Git, VS Code, Buildozer, WSL
 
 ---
 
 ## 📌 Current Projects
 
-- 🎮 **Gesture-controlled Android app** using eyebrow/hand movement to scroll Instagram Reels & YouTube Shorts.
-- 🎧 **DJ-style music remixing app** using real-time gesture detection and audio effects.
-- 🎥 Starting a social media channel **"AI for Everyone"** to simplify and explain AI tools for everyone.
+- 🎮 &nbsp;**Gesture-Controlled Android App:** Use eyebrow/hand movements to scroll Instagram Reels & YouTube Shorts  
+- 🎧 &nbsp;**DJ-Style Music Remixing App:** Real-time gesture detection for audio effects  
+- 🎥 &nbsp;Launching **"AI for Everyone"** – a social channel to make AI tools accessible for all
 
 ---
 
@@ -37,9 +37,9 @@
 
 ## 📫 Let's Connect!
 
-- 🔗 [LinkedIn](https://www.linkedin.com/) *(update link)*
-- 🧠 [AI for Everyone (YouTube/Instagram)](https://www.instagram.com/) *(update link)*
-- 📬 Email: *your.email@example.com*
+- 🔗 [LinkedIn](https://www.linkedin.com/) *(update your link!)*
+- 🧠 [AI for Everyone (YouTube/Instagram)](https://www.instagram.com/) *(update your link!)*
+- 📬 Email: `your.email@example.com` *(update your email!)*
 
 ---
 

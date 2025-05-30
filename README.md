@@ -47,7 +47,7 @@
 - **Speech to Move** — JavaScript, Browser Extension API  
   Engineered a browser extension enabling voice-controlled webpage scrolling for enhanced accessibility.
 
-- **AI Quiz App** — Html.Css,Js 
+- **AI Quiz App** — Html , Css, JavaScript
   Built an AI-powered quiz platform with adaptive difficulty, instant feedback, and progress tracking.
 
 ---

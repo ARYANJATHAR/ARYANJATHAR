@@ -51,12 +51,4 @@
 
 ---
 
-### 📈 Commit Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARYANJATHAR&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 <p align="center"><sub>Built with ❤️ using Markdown</sub></p>

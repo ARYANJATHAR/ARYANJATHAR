@@ -51,4 +51,3 @@
 
 ---
 
-<p align="center"><sub>Built with ❤️ using Markdown</sub></p>

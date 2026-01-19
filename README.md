@@ -1,11 +1,12 @@
 <h1 align="center">👋 Aryan Jathar</h1>
 <p align="center">
-   👨‍💻 Software Engineer | 🚀 AI/ML |🎓 IT Eng Student 
+   👨‍💻 Software Engineer | 🚀 AI |🎓 IT Eng Student 
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryanjathar07/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/aryanjathar07/">LinkedIn</a> 
   <a href="mailto:aryanjathar0723@gmail.com">Email</a>
+  <a href="https://wwww.aryanjathar.dev/">Portfolio Website/a>
 </p>
 
 ---
@@ -14,7 +15,7 @@
 
 - Student @ Trinity College of Engineering
 - Building cool stuff  
-- Interested in learning **AI/ML** and **Generative AI**
+- Interested in learning **Software Development** and **Generative AI**
 - On a mission to make tech fun & accessible
 
 ---
@@ -38,16 +39,14 @@
 
 ### 🚀 Featured Projects
 
-- **Beyond QWERTY: Form Filling Vernacular Voyage** — Infosys Springboard (Internship)  
-  Developed a voice-enabled bank form-filling solution, reducing processing time by 35%.  
-  Integrated data validation, PDF generation, and email functionality, improving completion rates by 40%.  
-  Ensured accessibility across web and Android platforms.
+- **Nexalyze**
+  Nexalyze is a cutting-edge AI-powered trading automation platform that brings intelligent automation to your fingertips, streamlining your trading for smarter, faster results.
 
-- **Speech to Move** — JavaScript, Browser Extension API  
-  Engineered a browser extension enabling voice-controlled webpage scrolling for enhanced accessibility.
-
-- **AI Quiz App** — HTML, CSS, JavaScript  
-  Built an AI-powered quiz platform with adaptive difficulty, instant feedback, and progress tracking.
+- **OpenVault**
+  A secure desktop application for managing passwords locally with encryption. Built to keep your credentials safe and accessible without cloud storage.
+  
+- **GetMusic** —
+  GetMusic is a professional music download service that provides users with instant access to their favorite songs.
 
 ---
 

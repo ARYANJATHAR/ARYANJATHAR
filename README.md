@@ -1,19 +1,20 @@
 <h1 align="center">👋 Aryan Jathar</h1>
 <p align="center">
-   👨‍💻 Software Engineer | 🚀 AI |🎓 IT Eng Student 
+   👨‍💻 Software Engineer 
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryanjathar07/">LinkedIn</a> 
   <a href="mailto:aryanjathar0723@gmail.com">Email</a>
-  <a href="https://wwww.aryanjathar.dev/">Portfolio Website</a>
+  <a href="https://wwww.aryanjathar.in/">Portfolio Website</a>
 </p>
 
 ---
 
 ### ⚡ About Me
 
-- Student @ Trinity College of Engineering
+- SDE1 DEXPERT SYSTEMS
+- Studied @ Trinity College of Engineering
 - Building cool stuff  
 - Interested in learning **Software Development** and **Generative AI**
 - On a mission to make tech fun & accessible
